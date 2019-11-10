@@ -10,5 +10,7 @@ Built for Dome Lab and free use in fulldome interactive software development
 5. Add the Unity HDRP to your project with the Unity Project Manager
 6. There are demo scenes showing the use of each of the cameras with some basic lighting and reflection effects in HDRP_360_Camera_Dome_Lab/Scenes
 
-# Additional Software
+# Additional Resources
 The [Klak NDI](https://github.com/keijiro/KlakNDI) package from [Keijiro](https://github.com/keijiro/) will let you output to Digistar 6, Resolume, or any other NDI enabled display system. This camera has been tested to work with that and other Klak systems Keijiro has developed.
+
+Unity has created an excellent [tutorial](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@6.7/manual/Upgrading-To-HDRP.html) for converting to HDRP.
